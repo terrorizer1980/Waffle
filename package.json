@@ -42,6 +42,6 @@
     "wsrun": "^5.2.0"
   },
   "dependencies": {
-    "@changesets/cli": "^2.13.1"
+    "@changesets/cli": "^2.20.0"
   }
 }
